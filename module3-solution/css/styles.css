@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+hr{
+  margin: 0;
+}
+
+#collapsable-nav li{
+  margin: 0 10px;
+  text-align: center;
+}
+
+#main-content {
+  background: #9E9E9E;
+  min-height: 900px;
+}
